@@ -1,6 +1,6 @@
 # Yoga Interface
 
-<img src="./assests/Yoga Interface.jpg" alt="imagem da interface yoga app">
+<img src="./assests/Yoga Interface.jpg" width="350px" alt="imagem da interface yoga app">
 
 > Resultado do projeto yoga.
 
