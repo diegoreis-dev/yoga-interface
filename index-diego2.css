@@ -1,0 +1,42 @@
+* {
+    font-family     : 'Roboto', sans-serif;
+    margin          : 0;
+    padding         : 0;
+    box-sizing      : border-box;
+    background-color: #E5E5E5;
+}
+
+.desenho {
+    display: block;
+    margin : 142px auto 104px auto;
+}
+
+.reticencias {
+    display: block;
+    margin : auto auto 81px auto;
+    width  : 64px;
+    height : 10px;
+}
+
+p {
+    font-style : normal;
+    font-weight: normal;
+    font-size  : 24px;
+    line-height: 28px;
+    text-align : center;
+    color      : #000000;
+    width      : 327px;
+    height     : 176px;
+    display    : block;
+    margin     : auto;
+}
+
+button {
+    display      : block;
+    width        : 173px;
+    height       : 46px;
+    margin       : auto;
+    border-radius: 10px;
+    background   : #323232;
+    color        : #B2B2B2;
+}
